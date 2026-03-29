@@ -78,8 +78,11 @@ Google Forms and Sheets – Quiz and data collection
 ## Author
 
 Name: Aditi Dubey
+<br>
 Reg No. - 25BCE10906
+<br>
 Branch: Computer Science Engineering
+<br>
 Year: First Year
 
 Learning Outcome
