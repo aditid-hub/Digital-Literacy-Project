@@ -1,7 +1,7 @@
 # Digital Literacy Ambassador Project
 ## Overview
 
-** This repository presents the complete set of tasks completed as part of the Digital Literacy Ambassador coursework. Each task is aligned with a specific module and focuses on building essential digital skills, including awareness, professional presence, collaboration, communication, and cybersecurity.**
+**This is repository presents the complete set of tasks completed as part of the Digital Literacy Ambassador coursework. Each task is aligned with a specific module and focuses on building essential digital skills, including awareness, professional presence, collaboration, communication, and cybersecurity.**
 
 ## Repository Structure
 README.md
@@ -84,4 +84,4 @@ Year: First Year
 
 Learning Outcome
 
-** This project provided practical exposure to essential digital skills, including creating awareness content, building a professional online identity, using collaborative tools, practicing coding, and understanding cybersecurity risks. It also reinforced the importance of responsible digital behavior in both academic and real-world contexts. **
+**This project provided practical exposure to essential digital skills, including creating awareness content, building a professional online identity, using collaborative tools, practicing coding, and understanding cybersecurity risks. It also reinforced the importance of responsible digital behavior in both academic and real-world contexts.**
